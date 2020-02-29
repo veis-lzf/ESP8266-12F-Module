@@ -10,7 +10,7 @@
 
 - ESP8266-12F引脚图
 
-	![image-20200229163838140](C:\Users\12566\AppData\Roaming\Typora\typora-user-images\image-20200229163838140.png)
+	![ESP8266-12-F](\ESP8266-12-F.png)
 
 - 原理图
 
