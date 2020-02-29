@@ -1,0 +1,52 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+CIRCLE            24            D10
+FLASH     FLASH_36             0.00000  D11
+CIRCLE            36            D12
+FLASH     FLASH_36                 180  D13
+FLASH     FLASH_36                 270  D14
+FLASH     FLASH_36                  90  D15
+SQUARE        62.992   0.00000            D16
+SQUARE        70.866   0.00000            D17
+CIRCLE        62.992            D18
+CIRCLE        70.866            D19
+RECTANGLE     36.614    37.402   0.00000  D20
+RECTANGLE     44.488    45.276   0.00000  D21
+RECTANGLE     37.402    36.614   0.00000  D22
+RECTANGLE     45.276    44.488   0.00000  D23
+RECTANGLE      39.37    27.559   0.00000  D24
+RECTANGLE     43.307    31.496   0.00000  D25
+RECTANGLE     86.614    47.244   0.00000  D26
+RECTANGLE     94.488    55.118   0.00000  D27
+RECTANGLE     84.646   137.795   0.00000  D28
+RECTANGLE      92.52   145.669   0.00000  D29
+RECTANGLE     94.488    47.244   0.00000  D30
+RECTANGLE     98.425    51.181   0.00000  D31
+RECTANGLE     47.244     78.74   0.00000  D32
+RECTANGLE     51.181    82.677   0.00000  D33
+RECTANGLE    137.795    84.646   0.00000  D34
+RECTANGLE    145.669     92.52   0.00000  D35
+RECTANGLE     47.244    86.614   0.00000  D36
+RECTANGLE     55.118    94.488   0.00000  D37
+RECTANGLE      78.74    47.244   0.00000  D38
+RECTANGLE     82.677    51.181   0.00000  D39
+RECTANGLE     47.244    94.488   0.00000  D40
+RECTANGLE     51.181    98.425   0.00000  D41
+RECTANGLE     27.559     39.37   0.00000  D42
+RECTANGLE     31.496    43.307   0.00000  D43
+LINE               5            D44
+LINE               6            D45
+LINE               8            D46
+LINE               4            D47
+LINE              10            D48
+LINE              25            D49
+LINE           7.874            D50
+LINE          15.748            D51
+LINE           4.724            D52
+LINE              15            D53
+LINE              35            D54
+LINE              24            D55
+

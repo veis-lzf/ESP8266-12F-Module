@@ -1,0 +1,170 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-24-2018 at 11:06:49 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ESP8266';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C_0603_2_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS204@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins204@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins204@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C_0603_2_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS1258@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins1258@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins1258@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C_0603_2_104':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS1284@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins1284@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins1284@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SOD-123_DIODE':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS543@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins543@discrete.\diode.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins543@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_SOD-123_DIODE':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS569@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins569@discrete.\diode.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins569@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_0603_LED':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS1705@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins1705@discrete.\led.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins1705@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 6_PIN_6_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS243@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins243@connector.\header 6.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins243@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R_0603_1K':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS170@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins170@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins170@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R_0603_1K':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS297@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins297@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins297@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R_0603_5.6K':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS623@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins623@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins623@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R_0603_5.6K':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS649@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins649@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins649@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R_0603_5.6K':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS846@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins846@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins846@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R_0603_5.6K':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS872@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins872@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins872@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R_0603_510R':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS1731@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins1731@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins1731@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ESP8266_ESP8266_ESP8266':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS66@ESP8266.ESP8266.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins66@esp8266.\esp8266.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins66@esp8266.\esp8266.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'AMS1117-3V3_SOT_223_AMS1117-3V3':;
+
+SECTION_NUMBER 1
+ '@ESP8266.SCHEMATIC1(SCH_1):INS139@ESP8266.AMS1117-3V3.NORMAL(CHIPS)':
+ C_PATH='@esp8266.schematic1(sch_1):ins139@esp8266.\ams1117-3v3.normal\(chips)',
+ P_PATH='@esp8266.schematic1(sch_1):page1_ins139@esp8266.\ams1117-3v3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
