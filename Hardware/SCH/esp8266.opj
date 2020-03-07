@@ -44,9 +44,9 @@
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
     (Netlist_TAB "0")
-    (Board_sim_option "VHDL_flow")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
+    (DOCKING_POSITION "59420")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\esp8266.drc"
       (Type "Report"))
@@ -63,21 +63,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\esp8266.dsn")
-      (Path "Design Resources" ".\esp8266.dsn" "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Design Resources"
+         "g:\github\esp8266-module\hardware\sch\esp8266.dsn")
+      (Path "Design Resources"
+         "g:\github\esp8266-module\hardware\sch\esp8266.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "g:\github\esp8266-module\hardware\sch\esp8266.dsn" "SCHEMATIC1"
+         "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 891"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 685"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -32 84 1328 54 527")
-        (Scroll "30 92")
-        (Zoom "158")
+        (Placement "44 2 3 -1 -1 -4 -27 22 1266 29 502")
+        (Scroll "137 35")
+        (Zoom "110")
         (Occurrence "/"))
       (Path "G:\GITHUB\ESP8266-MODULE\HARDWARE\SCH\ESP8266.DSN")
       (Schematic "SCHEMATIC1")
